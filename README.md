@@ -27,3 +27,7 @@ Artificial intelligence enhances recommendation systems by enabling learning and
 AI-based recommendation systems offer several advantages. They provide personalised user experiences, increase customer satisfaction, improve sales and retention, and help users discover relevant content quickly. For businesses, these systems play a key role in digital marketing, customer engagement, and revenue growth. However, challenges such as data privacy, cold-start problems, scalability, and bias must be carefully managed to ensure fairness and trust.
 
 In conclusion, AI-based recommendation systems are a crucial part of modern technology-driven applications. By intelligently analysing user data and preferences, they deliver personalised and meaningful recommendations. As AI technology continues to advance, recommendation systems will become even more accurate, adaptive, and essential in shaping the future of digital experiences.
+
+![Image](https://github.com/user-attachments/assets/6cee713d-92fa-4f9e-b2ee-28ed9a2f8912)
+
+![Image](https://github.com/user-attachments/assets/ce98f124-5ed4-4f4a-ad01-e431942dfd3e)
